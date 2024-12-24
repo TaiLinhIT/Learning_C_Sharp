@@ -1,0 +1,14 @@
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\bin\Debug\net8.0\CS19VirtualMethodAbstractInterface.exe
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\bin\Debug\net8.0\CS19VirtualMethodAbstractInterface.deps.json
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\bin\Debug\net8.0\CS19VirtualMethodAbstractInterface.runtimeconfig.json
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\bin\Debug\net8.0\CS19VirtualMethodAbstractInterface.dll
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\bin\Debug\net8.0\CS19VirtualMethodAbstractInterface.pdb
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\obj\Debug\net8.0\CS19VirtualMethodAbstractInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\obj\Debug\net8.0\CS19VirtualMethodAbstractInterface.AssemblyInfoInputs.cache
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\obj\Debug\net8.0\CS19VirtualMethodAbstractInterface.AssemblyInfo.cs
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\obj\Debug\net8.0\CS19VirtualMethodAbstractInterface.csproj.CoreCompileInputs.cache
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\obj\Debug\net8.0\CS19VirtualMethodAbstractInterface.dll
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\obj\Debug\net8.0\refint\CS19VirtualMethodAbstractInterface.dll
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\obj\Debug\net8.0\CS19VirtualMethodAbstractInterface.pdb
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\obj\Debug\net8.0\CS19VirtualMethodAbstractInterface.genruntimeconfig.cache
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS19VirtualMethodAbstractInterface\obj\Debug\net8.0\ref\CS19VirtualMethodAbstractInterface.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CS24PhuongThucTinhOnlyReadIndexer/1.0.0": {
+        "runtime": {
+          "CS24PhuongThucTinhOnlyReadIndexer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS24PhuongThucTinhOnlyReadIndexer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

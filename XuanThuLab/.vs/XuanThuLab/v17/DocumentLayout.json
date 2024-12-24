@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B381DD-A1C8-4E46-B1CD-366388A23E2C}|CS20DelegateActionFunc\\CS20DelegateActionFunc.csproj|e:\\myproject\\learning_c_shapt\\xuanthulab\\cs20delegateactionfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B381DD-A1C8-4E46-B1CD-366388A23E2C}|CS20DelegateActionFunc\\CS20DelegateActionFunc.csproj|solutionrelative:cs20delegateactionfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00C1722-429B-4A6C-9C5B-8359E35F3580}|CS19VirtualMethodAbstractInterface\\CS19VirtualMethodAbstractInterface.csproj|e:\\myproject\\learning_c_shapt\\xuanthulab\\cs19virtualmethodabstractinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00C1722-429B-4A6C-9C5B-8359E35F3580}|CS19VirtualMethodAbstractInterface\\CS19VirtualMethodAbstractInterface.csproj|solutionrelative:cs19virtualmethodabstractinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D7759A-BFDD-47C4-A2D6-164B743F3EBC}|CS26ListSortedList\\CS26ListSortedList.csproj|e:\\myproject\\learning_c_shapt\\xuanthulab\\cs26listsortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D7759A-BFDD-47C4-A2D6-164B743F3EBC}|CS26ListSortedList\\CS26ListSortedList.csproj|solutionrelative:cs26listsortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8002AEC4-CBD9-434F-A905-6348FDA7471B}|CS23PhuongThucMoRong\\CS23PhuongThucMoRong.csproj|e:\\myproject\\learning_c_shapt\\xuanthulab\\cs23phuongthucmorong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8002AEC4-CBD9-434F-A905-6348FDA7471B}|CS23PhuongThucMoRong\\CS23PhuongThucMoRong.csproj|solutionrelative:cs23phuongthucmorong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8002AEC4-CBD9-434F-A905-6348FDA7471B}|CS23PhuongThucMoRong\\CS23PhuongThucMoRong.csproj|e:\\myproject\\learning_c_shapt\\xuanthulab\\cs23phuongthucmorong\\myextetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8002AEC4-CBD9-434F-A905-6348FDA7471B}|CS23PhuongThucMoRong\\CS23PhuongThucMoRong.csproj|solutionrelative:cs23phuongthucmorong\\myextetion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C875D4-BA0B-4CCC-AE99-72D5F096AC04}|CS25ExceptionTryCatch\\CS25ExceptionTryCatch.csproj|e:\\myproject\\learning_c_shapt\\xuanthulab\\cs25exceptiontrycatch\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C875D4-BA0B-4CCC-AE99-72D5F096AC04}|CS25ExceptionTryCatch\\CS25ExceptionTryCatch.csproj|solutionrelative:cs25exceptiontrycatch\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C875D4-BA0B-4CCC-AE99-72D5F096AC04}|CS25ExceptionTryCatch\\CS25ExceptionTryCatch.csproj|e:\\myproject\\learning_c_shapt\\xuanthulab\\cs25exceptiontrycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C875D4-BA0B-4CCC-AE99-72D5F096AC04}|CS25ExceptionTryCatch\\CS25ExceptionTryCatch.csproj|solutionrelative:cs25exceptiontrycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AB52BA-8447-41A5-9A35-B89D49989BE5}|CS24PhuongThucTinhOnlyReadIndexer\\CS24PhuongThucTinhOnlyReadIndexer.csproj|e:\\myproject\\learning_c_shapt\\xuanthulab\\cs24phuongthuctinhonlyreadindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AB52BA-8447-41A5-9A35-B89D49989BE5}|CS24PhuongThucTinhOnlyReadIndexer\\CS24PhuongThucTinhOnlyReadIndexer.csproj|solutionrelative:cs24phuongthuctinhonlyreadindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS20DelegateActionFunc\\Program.cs",
+              "RelativeDocumentMoniker": "CS20DelegateActionFunc\\Program.cs",
+              "ToolTip": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS20DelegateActionFunc\\Program.cs",
+              "RelativeToolTip": "CS20DelegateActionFunc\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:43:19.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS19VirtualMethodAbstractInterface\\Program.cs",
+              "RelativeDocumentMoniker": "CS19VirtualMethodAbstractInterface\\Program.cs",
+              "ToolTip": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS19VirtualMethodAbstractInterface\\Program.cs",
+              "RelativeToolTip": "CS19VirtualMethodAbstractInterface\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAUwFIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:31:03.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS26ListSortedList\\Program.cs",
+              "RelativeDocumentMoniker": "CS26ListSortedList\\Program.cs",
+              "ToolTip": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS26ListSortedList\\Program.cs",
+              "RelativeToolTip": "CS26ListSortedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:43:06.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyException.cs",
+              "DocumentMoniker": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS25ExceptionTryCatch\\MyException.cs",
+              "RelativeDocumentMoniker": "CS25ExceptionTryCatch\\MyException.cs",
+              "ToolTip": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS25ExceptionTryCatch\\MyException.cs",
+              "RelativeToolTip": "CS25ExceptionTryCatch\\MyException.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:50:35.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS25ExceptionTryCatch\\Program.cs",
+              "RelativeDocumentMoniker": "CS25ExceptionTryCatch\\Program.cs",
+              "ToolTip": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS25ExceptionTryCatch\\Program.cs",
+              "RelativeToolTip": "CS25ExceptionTryCatch\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wBoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:56:49.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS24PhuongThucTinhOnlyReadIndexer\\Program.cs",
+              "RelativeDocumentMoniker": "CS24PhuongThucTinhOnlyReadIndexer\\Program.cs",
+              "ToolTip": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS24PhuongThucTinhOnlyReadIndexer\\Program.cs",
+              "RelativeToolTip": "CS24PhuongThucTinhOnlyReadIndexer\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:40:17.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyExtetion.cs",
+              "DocumentMoniker": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS23PhuongThucMoRong\\MyExtetion.cs",
+              "RelativeDocumentMoniker": "CS23PhuongThucMoRong\\MyExtetion.cs",
+              "ToolTip": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS23PhuongThucMoRong\\MyExtetion.cs",
+              "RelativeToolTip": "CS23PhuongThucMoRong\\MyExtetion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:32:13.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS23PhuongThucMoRong\\Program.cs",
+              "RelativeDocumentMoniker": "CS23PhuongThucMoRong\\Program.cs",
+              "ToolTip": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS23PhuongThucMoRong\\Program.cs",
+              "RelativeToolTip": "CS23PhuongThucMoRong\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:19:08.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

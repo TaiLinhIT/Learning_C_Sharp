@@ -1,0 +1,14 @@
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\bin\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.exe
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\bin\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.deps.json
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\bin\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.runtimeconfig.json
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\bin\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.dll
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\bin\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.pdb
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\obj\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\obj\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.AssemblyInfoInputs.cache
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\obj\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.AssemblyInfo.cs
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\obj\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.csproj.CoreCompileInputs.cache
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\obj\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.dll
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\obj\Debug\net8.0\refint\CS24PhuongThucTinhOnlyReadIndexer.dll
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\obj\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.pdb
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\obj\Debug\net8.0\CS24PhuongThucTinhOnlyReadIndexer.genruntimeconfig.cache
+E:\MyProject\Learning_C_Shapt\XuanThuLab\CS24PhuongThucTinhOnlyReadIndexer\obj\Debug\net8.0\ref\CS24PhuongThucTinhOnlyReadIndexer.dll
