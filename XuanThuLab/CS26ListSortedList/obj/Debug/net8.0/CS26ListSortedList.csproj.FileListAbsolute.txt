@@ -1,0 +1,15 @@
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\bin\Debug\net8.0\CS26ListSortedList.exe
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\bin\Debug\net8.0\CS26ListSortedList.deps.json
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\bin\Debug\net8.0\CS26ListSortedList.runtimeconfig.json
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\bin\Debug\net8.0\CS26ListSortedList.dll
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\bin\Debug\net8.0\CS26ListSortedList.pdb
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\obj\Debug\net8.0\CS26ListSortedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\obj\Debug\net8.0\CS26ListSortedList.AssemblyInfoInputs.cache
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\obj\Debug\net8.0\CS26ListSortedList.AssemblyInfo.cs
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\obj\Debug\net8.0\CS26ListSortedList.csproj.CoreCompileInputs.cache
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\obj\Debug\net8.0\CS26ListSortedList.sourcelink.json
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\obj\Debug\net8.0\CS26ListSortedList.dll
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\obj\Debug\net8.0\refint\CS26ListSortedList.dll
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\obj\Debug\net8.0\CS26ListSortedList.pdb
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\obj\Debug\net8.0\CS26ListSortedList.genruntimeconfig.cache
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS26ListSortedList\obj\Debug\net8.0\ref\CS26ListSortedList.dll

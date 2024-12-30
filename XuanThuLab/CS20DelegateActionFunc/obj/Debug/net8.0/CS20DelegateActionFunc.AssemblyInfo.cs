@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS20DelegateActionFunc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4f6380a0cb33a69cfea6acaaecd0d6c545172ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS20DelegateActionFunc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS20DelegateActionFunc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

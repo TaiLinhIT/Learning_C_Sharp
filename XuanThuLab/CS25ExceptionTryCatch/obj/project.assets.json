@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS25ExceptionTryCatch\\CS25ExceptionTryCatch.csproj",
+      "projectUniqueName": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS25ExceptionTryCatch\\CS25ExceptionTryCatch.csproj",
       "projectName": "CS25ExceptionTryCatch",
-      "projectPath": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS25ExceptionTryCatch\\CS25ExceptionTryCatch.csproj",
+      "projectPath": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS25ExceptionTryCatch\\CS25ExceptionTryCatch.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS25ExceptionTryCatch\\obj\\",
+      "outputPath": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS25ExceptionTryCatch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

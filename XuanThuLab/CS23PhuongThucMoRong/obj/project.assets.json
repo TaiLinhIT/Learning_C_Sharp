@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS23PhuongThucMoRong\\CS23PhuongThucMoRong.csproj",
+      "projectUniqueName": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS23PhuongThucMoRong\\CS23PhuongThucMoRong.csproj",
       "projectName": "CS23PhuongThucMoRong",
-      "projectPath": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS23PhuongThucMoRong\\CS23PhuongThucMoRong.csproj",
+      "projectPath": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS23PhuongThucMoRong\\CS23PhuongThucMoRong.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\Learning_C_Shapt\\XuanThuLab\\CS23PhuongThucMoRong\\obj\\",
+      "outputPath": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS23PhuongThucMoRong\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
