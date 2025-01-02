@@ -1,0 +1,15 @@
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\bin\Debug\net8.0\CS34HttpClient.exe
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\bin\Debug\net8.0\CS34HttpClient.deps.json
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\bin\Debug\net8.0\CS34HttpClient.runtimeconfig.json
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\bin\Debug\net8.0\CS34HttpClient.dll
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\bin\Debug\net8.0\CS34HttpClient.pdb
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\obj\Debug\net8.0\CS34HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\obj\Debug\net8.0\CS34HttpClient.AssemblyInfoInputs.cache
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\obj\Debug\net8.0\CS34HttpClient.AssemblyInfo.cs
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\obj\Debug\net8.0\CS34HttpClient.csproj.CoreCompileInputs.cache
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\obj\Debug\net8.0\CS34HttpClient.sourcelink.json
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\obj\Debug\net8.0\CS34HttpClient.dll
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\obj\Debug\net8.0\refint\CS34HttpClient.dll
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\obj\Debug\net8.0\CS34HttpClient.pdb
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\obj\Debug\net8.0\CS34HttpClient.genruntimeconfig.cache
+E:\Learning\C#\Learning_C_Sharp\XuanThuLab\CS34HttpClient\obj\Debug\net8.0\ref\CS34HttpClient.dll

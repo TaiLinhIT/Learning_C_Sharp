@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Options;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Channels;
@@ -69,6 +71,22 @@ namespace CS33DependencyInjection
             c_dependency.ActionC();
         }
     }
+    class ClassB2 : IClassB
+    {
+        IClassC c_dependency;
+        string message;
+        public ClassB2(IClassC classc, string mgs)
+        {
+            c_dependency = classc;
+            message = mgs;
+            Console.WriteLine("ClassB2 is created");
+        }
+        public void ActionB()
+        {
+            Console.WriteLine(message);
+            c_dependency.ActionC();
+        }
+    }
     class Horn
     {
         public void Beep() => Console.WriteLine("Beep - Beep - Beep");
@@ -86,6 +104,23 @@ namespace CS33DependencyInjection
             Horn horn = new Horn();
             horn.Beep();
         }
+    }
+    class MyServiceOptions
+    {
+        public string Data1 { get; set; }
+        public int Data2 { get; set; }
+    }
+    class MyService
+    {
+        public string Data1 { get; set; }
+        public int Data2 { get; set; }
+        public MyService(IOptions<MyServiceOptions> options)
+        {
+            var _options = options.Value;
+            Data1 = _options.Data1;
+            Data2 = _options.Data2;
+        }
+        public void PrintData()=> Console.WriteLine($"dữ liệu của {Data1}/{Data2}");
     }
     public class Program
     {
@@ -164,11 +199,51 @@ namespace CS33DependencyInjection
             services.AddSingleton<IClassB,ClassB>();
             services.AddSingleton<IClassC,ClassC>();
 
+            //ClassA a = provider.GetService<ClassA>();
+            ////a.ActionA();
+            ///
+            services.AddSingleton<MyService>();
 
+            //services.Configure<MyServiceOptions>(
+            //    (MyServiceOptions options) =>
+            //    {
+            //        options.Data1 = "Năm mới an lành";
+            //        options.Data2 = 1;
+            //    }
+            //);
+
+
+            
+
+           
+
+            
+
+
+
+            // thông thường làm việc với các file hệ thống thì làm việc với configurationroot
+            IConfigurationRoot configurationRoot;
+
+            //để nạp các file cấu hình thì ta sử dụng đối tượng lớp
+            ConfigurationBuilder configurationBuilder = new ConfigurationBuilder();
+            //lấy ra địa chỉ các file ở thư mục hiện tại
+            configurationBuilder.SetBasePath(Directory.GetCurrentDirectory());
+            configurationBuilder.AddJsonFile("cauhinh.json");
+            configurationRoot = configurationBuilder.Build();
+
+            var key1 = configurationRoot.GetSection("section1").GetSection("key1").Value;
+
+            services.AddSingleton<MyService>();
+            services.AddOptions();
+            var sectionMyserviceOptions = configurationRoot.GetSection("MyServiceOptions");
+
+
+            services.Configure<MyServiceOptions>(sectionMyserviceOptions);
             var provider = services.BuildServiceProvider();
+            var service = provider.GetService<MyService>();
 
-            ClassA a = provider.GetService<ClassA>();
-            a.ActionA();
+            service.PrintData();
+            //Console.WriteLine(key1);
             Console.ReadLine();
         }
     }

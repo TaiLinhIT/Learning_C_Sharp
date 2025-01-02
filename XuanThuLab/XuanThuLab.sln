@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS19VirtualMethodAbstractIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS20DelegateActionFunc", "CS20DelegateActionFunc\CS20DelegateActionFunc.csproj", "{E4B381DD-A1C8-4E46-B1CD-366388A23E2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS33DependencyInjection", "CS33DependencyInjection\CS33DependencyInjection.csproj", "{8991D134-6D15-4030-AC56-7616E49935F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS33DependencyInjection", "CS33DependencyInjection\CS33DependencyInjection.csproj", "{8991D134-6D15-4030-AC56-7616E49935F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS34HttpClient", "CS34HttpClient\CS34HttpClient.csproj", "{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{8991D134-6D15-4030-AC56-7616E49935F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8991D134-6D15-4030-AC56-7616E49935F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8991D134-6D15-4030-AC56-7616E49935F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

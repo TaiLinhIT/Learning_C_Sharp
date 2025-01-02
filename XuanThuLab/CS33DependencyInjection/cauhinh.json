@@ -1,0 +1,10 @@
+{
+  "section1": {
+    "key1": "value1",
+    "key2": 1234
+  },
+  "MyServiceOptions": {
+    "Data1": "Học về đọc file json",
+    "Data2": 1324
+  }
+}
