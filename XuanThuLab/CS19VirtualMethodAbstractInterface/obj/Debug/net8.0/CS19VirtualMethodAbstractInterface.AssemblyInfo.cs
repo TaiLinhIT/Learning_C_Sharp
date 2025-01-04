@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS19VirtualMethodAbstractInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad2aaad7021b014c1f0345c6090629f8f9ae3115")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dd6e9eb72d7e5611b0126bce7dba95cb0fa403d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS19VirtualMethodAbstractInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS19VirtualMethodAbstractInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,7 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS20DelegateActionFunc", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS33DependencyInjection", "CS33DependencyInjection\CS33DependencyInjection.csproj", "{8991D134-6D15-4030-AC56-7616E49935F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS34HttpClient", "CS34HttpClient\CS34HttpClient.csproj", "{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS34HttpClient", "CS34HttpClient\CS34HttpClient.csproj", "{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS35HttpMessageHandlerCookieContainer", "CS35HttpMessageHandlerCookieContainer\CS35HttpMessageHandlerCookieContainer.csproj", "{9675BEC2-2D2D-4922-A5EE-FEB8D9438E39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS36HttpListener", "CS36HttpListener\CS36HttpListener.csproj", "{05C72E02-BEEC-464D-BD7D-8B7035E376EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS37ADO.NET", "CS37ADO.NET\CS37ADO.NET.csproj", "{6EB535A0-571B-433B-8BFE-BD6CCA5BABDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9675BEC2-2D2D-4922-A5EE-FEB8D9438E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9675BEC2-2D2D-4922-A5EE-FEB8D9438E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9675BEC2-2D2D-4922-A5EE-FEB8D9438E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9675BEC2-2D2D-4922-A5EE-FEB8D9438E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C72E02-BEEC-464D-BD7D-8B7035E376EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C72E02-BEEC-464D-BD7D-8B7035E376EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C72E02-BEEC-464D-BD7D-8B7035E376EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C72E02-BEEC-464D-BD7D-8B7035E376EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB535A0-571B-433B-8BFE-BD6CCA5BABDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB535A0-571B-433B-8BFE-BD6CCA5BABDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB535A0-571B-433B-8BFE-BD6CCA5BABDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB535A0-571B-433B-8BFE-BD6CCA5BABDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

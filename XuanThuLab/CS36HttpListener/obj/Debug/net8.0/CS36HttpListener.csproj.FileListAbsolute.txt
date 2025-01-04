@@ -1,0 +1,15 @@
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\bin\Debug\net8.0\CS36HttpListener.exe
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\bin\Debug\net8.0\CS36HttpListener.deps.json
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\bin\Debug\net8.0\CS36HttpListener.runtimeconfig.json
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\bin\Debug\net8.0\CS36HttpListener.dll
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\bin\Debug\net8.0\CS36HttpListener.pdb
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\obj\Debug\net8.0\CS36HttpListener.GeneratedMSBuildEditorConfig.editorconfig
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\obj\Debug\net8.0\CS36HttpListener.AssemblyInfoInputs.cache
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\obj\Debug\net8.0\CS36HttpListener.AssemblyInfo.cs
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\obj\Debug\net8.0\CS36HttpListener.csproj.CoreCompileInputs.cache
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\obj\Debug\net8.0\CS36HttpListener.sourcelink.json
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\obj\Debug\net8.0\CS36HttpListener.dll
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\obj\Debug\net8.0\refint\CS36HttpListener.dll
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\obj\Debug\net8.0\CS36HttpListener.pdb
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\obj\Debug\net8.0\CS36HttpListener.genruntimeconfig.cache
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS36HttpListener\obj\Debug\net8.0\ref\CS36HttpListener.dll
