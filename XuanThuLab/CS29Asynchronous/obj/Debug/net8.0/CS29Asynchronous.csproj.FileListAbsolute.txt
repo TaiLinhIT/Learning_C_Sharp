@@ -1,0 +1,15 @@
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\bin\Debug\net8.0\CS29Asynchronous.exe
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\bin\Debug\net8.0\CS29Asynchronous.deps.json
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\bin\Debug\net8.0\CS29Asynchronous.runtimeconfig.json
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\bin\Debug\net8.0\CS29Asynchronous.dll
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\bin\Debug\net8.0\CS29Asynchronous.pdb
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\obj\Debug\net8.0\CS29Asynchronous.GeneratedMSBuildEditorConfig.editorconfig
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\obj\Debug\net8.0\CS29Asynchronous.AssemblyInfoInputs.cache
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\obj\Debug\net8.0\CS29Asynchronous.AssemblyInfo.cs
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\obj\Debug\net8.0\CS29Asynchronous.csproj.CoreCompileInputs.cache
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\obj\Debug\net8.0\CS29Asynchronous.sourcelink.json
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\obj\Debug\net8.0\CS29Asynchronous.dll
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\obj\Debug\net8.0\refint\CS29Asynchronous.dll
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\obj\Debug\net8.0\CS29Asynchronous.pdb
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\obj\Debug\net8.0\CS29Asynchronous.genruntimeconfig.cache
+F:\Linh\Learning_C_Sharp\XuanThuLab\CS29Asynchronous\obj\Debug\net8.0\ref\CS29Asynchronous.dll

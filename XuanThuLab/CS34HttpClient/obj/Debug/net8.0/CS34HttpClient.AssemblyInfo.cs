@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS34HttpClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dd6e9eb72d7e5611b0126bce7dba95cb0fa403d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6e5be3d812e3121d6cba6c0e069fd948e4896c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS34HttpClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS34HttpClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
