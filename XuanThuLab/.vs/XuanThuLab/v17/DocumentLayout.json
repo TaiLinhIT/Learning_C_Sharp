@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\",
+  "WorkspaceRootPath": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}|CS34HttpClient\\CS34HttpClient.csproj|e:\\learning\\c#\\learning_c_sharp\\xuanthulab\\cs34httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38CDF9B8-5F4F-4CFF-BFD0-9AE482F5694C}|CS34HttpClient\\CS34HttpClient.csproj|solutionrelative:cs34httpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\hello-asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|solutionrelative:hello-asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8991D134-6D15-4030-AC56-7616E49935F1}|CS33DependencyInjection\\CS33DependencyInjection.csproj|e:\\learning\\c#\\learning_c_sharp\\xuanthulab\\cs33dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8991D134-6D15-4030-AC56-7616E49935F1}|CS33DependencyInjection\\CS33DependencyInjection.csproj|solutionrelative:cs33dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\hello-asp\\mystartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|solutionrelative:hello-asp\\mystartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8991D134-6D15-4030-AC56-7616E49935F1}|CS33DependencyInjection\\CS33DependencyInjection.csproj|e:\\learning\\c#\\learning_c_sharp\\xuanthulab\\cs33dependencyinjection\\cauhinh.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8991D134-6D15-4030-AC56-7616E49935F1}|CS33DependencyInjection\\CS33DependencyInjection.csproj|solutionrelative:cs33dependencyinjection\\cauhinh.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\hello-asp\\hello-asp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|solutionrelative:hello-asp\\hello-asp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\hello-asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|solutionrelative:hello-asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS34HttpClient\\Program.cs",
-              "RelativeDocumentMoniker": "CS34HttpClient\\Program.cs",
-              "ToolTip": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS34HttpClient\\Program.cs",
-              "RelativeToolTip": "CS34HttpClient\\Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAzwDEAAABCAAAA",
+              "DocumentIndex": 1,
+              "Title": "MyStartUp.cs",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\MyStartUp.cs",
+              "RelativeDocumentMoniker": "Hello-Asp\\MyStartUp.cs",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\MyStartUp.cs*",
+              "RelativeToolTip": "Hello-Asp\\MyStartUp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T07:22:38.536Z",
+              "WhenOpened": "2025-01-17T10:09:56.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "cauhinh.json",
-              "DocumentMoniker": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS33DependencyInjection\\cauhinh.json",
-              "RelativeDocumentMoniker": "CS33DependencyInjection\\cauhinh.json",
-              "ToolTip": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS33DependencyInjection\\cauhinh.json",
-              "RelativeToolTip": "CS33DependencyInjection\\cauhinh.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-31T03:24:47.518Z"
+              "Title": "Hello-Asp",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\Hello-Asp.csproj",
+              "RelativeDocumentMoniker": "Hello-Asp\\Hello-Asp.csproj",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\Hello-Asp.csproj",
+              "RelativeToolTip": "Hello-Asp\\Hello-Asp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-17T01:57:33.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\appsettings.json",
+              "RelativeDocumentMoniker": "Hello-Asp\\appsettings.json",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\appsettings.json",
+              "RelativeToolTip": "Hello-Asp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T01:56:13.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS33DependencyInjection\\Program.cs",
-              "RelativeDocumentMoniker": "CS33DependencyInjection\\Program.cs",
-              "ToolTip": "E:\\Learning\\C#\\Learning_C_Sharp\\XuanThuLab\\CS33DependencyInjection\\Program.cs",
-              "RelativeToolTip": "CS33DependencyInjection\\Program.cs",
-              "ViewState": "AQIAAOAAAAAAAAAAAAAIwPIAAAA7AAAA",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\Program.cs",
+              "RelativeDocumentMoniker": "Hello-Asp\\Program.cs",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\Program.cs*",
+              "RelativeToolTip": "Hello-Asp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T01:54:37.56Z"
+              "WhenOpened": "2025-01-17T01:50:39.561Z",
+              "EditorCaption": ""
             }
           ]
         }

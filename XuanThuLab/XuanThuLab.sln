@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS40EntityFramework", "CS40
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS29Asynchronous", "CS29Asynchronous\CS29Asynchronous.csproj", "{B78C0BA3-8C2A-4F6A-B75A-BB1683C6C5FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello-Asp", "Hello-Asp\Hello-Asp.csproj", "{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{B78C0BA3-8C2A-4F6A-B75A-BB1683C6C5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B78C0BA3-8C2A-4F6A-B75A-BB1683C6C5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B78C0BA3-8C2A-4F6A-B75A-BB1683C6C5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
