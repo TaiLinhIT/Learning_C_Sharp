@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ce0or4HQPO9FCEtePrkjUqob5YHG8DYjNtL1zlLcRHY=",
+  "Hash": "/7kohOGp5Jy7ItnGSlRFNAsXOtTciT4+k19Iq0RELtI=",
   "Source": "Hello-Asp",
   "BasePath": "_content/Hello-Asp",
   "Mode": "Default",
@@ -920,6 +920,27 @@
       "OriginalItemSpec": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+      "Identity": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\obj\\Debug\\net9.0\\compressed\\qp8v5f2mh0-85lo2ho9hi.gz",
+      "SourceId": "Hello-Asp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Hello-Asp",
+      "RelativePath": "1#[.{fingerprint=85lo2ho9hi}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\wwwroot\\1.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3npjz0w0yl",
+      "Integrity": "cfRIIc6GCkTGjsoGIsUKjv3XkFC3L0fDlqPTjlpG0gY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\wwwroot\\1.txt"
+    },
+    {
       "Identity": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\obj\\Debug\\net9.0\\compressed\\qpqyri26ey-rzd6atqjts.gz",
       "SourceId": "Hello-Asp",
       "SourceType": "Discovered",
@@ -1401,6 +1422,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Hello-Asp.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\wwwroot\\1.txt",
+      "SourceId": "Hello-Asp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\wwwroot\\",
+      "BasePath": "_content/Hello-Asp",
+      "RelativePath": "1#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "85lo2ho9hi",
+      "Integrity": "9JgzS54L/oLrO7RQLsX5ZExhWFlivaMcTdjWXYhxMHI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.txt"
     },
     {
       "Identity": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\wwwroot\\css\\site.css",
@@ -2727,6 +2769,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "1.85lo2ho9hi.txt",
+      "AssetFile": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\obj\\Debug\\net9.0\\compressed\\qp8v5f2mh0-85lo2ho9hi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.025000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cfRIIc6GCkTGjsoGIsUKjv3XkFC3L0fDlqPTjlpG0gY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 01:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9JgzS54L/oLrO7RQLsX5ZExhWFlivaMcTdjWXYhxMHI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "85lo2ho9hi"
+        },
+        {
+          "Name": "label",
+          "Value": "1.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JgzS54L/oLrO7RQLsX5ZExhWFlivaMcTdjWXYhxMHI="
+        }
+      ]
+    },
+    {
+      "Route": "1.85lo2ho9hi.txt",
+      "AssetFile": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\wwwroot\\1.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9JgzS54L/oLrO7RQLsX5ZExhWFlivaMcTdjWXYhxMHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 01:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "85lo2ho9hi"
+        },
+        {
+          "Name": "label",
+          "Value": "1.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JgzS54L/oLrO7RQLsX5ZExhWFlivaMcTdjWXYhxMHI="
+        }
+      ]
+    },
+    {
+      "Route": "1.85lo2ho9hi.txt.gz",
+      "AssetFile": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\obj\\Debug\\net9.0\\compressed\\qp8v5f2mh0-85lo2ho9hi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cfRIIc6GCkTGjsoGIsUKjv3XkFC3L0fDlqPTjlpG0gY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 01:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "85lo2ho9hi"
+        },
+        {
+          "Name": "label",
+          "Value": "1.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cfRIIc6GCkTGjsoGIsUKjv3XkFC3L0fDlqPTjlpG0gY="
+        }
+      ]
+    },
+    {
+      "Route": "1.txt",
+      "AssetFile": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\obj\\Debug\\net9.0\\compressed\\qp8v5f2mh0-85lo2ho9hi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.025000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cfRIIc6GCkTGjsoGIsUKjv3XkFC3L0fDlqPTjlpG0gY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 01:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9JgzS54L/oLrO7RQLsX5ZExhWFlivaMcTdjWXYhxMHI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JgzS54L/oLrO7RQLsX5ZExhWFlivaMcTdjWXYhxMHI="
+        }
+      ]
+    },
+    {
+      "Route": "1.txt",
+      "AssetFile": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\wwwroot\\1.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9JgzS54L/oLrO7RQLsX5ZExhWFlivaMcTdjWXYhxMHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 01:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9JgzS54L/oLrO7RQLsX5ZExhWFlivaMcTdjWXYhxMHI="
+        }
+      ]
+    },
+    {
+      "Route": "1.txt.gz",
+      "AssetFile": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\obj\\Debug\\net9.0\\compressed\\qp8v5f2mh0-85lo2ho9hi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cfRIIc6GCkTGjsoGIsUKjv3XkFC3L0fDlqPTjlpG0gY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 01:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cfRIIc6GCkTGjsoGIsUKjv3XkFC3L0fDlqPTjlpG0gY="
+        }
+      ]
+    },
     {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\obj\\Debug\\net9.0\\compressed\\oe930l40hm-b9sayid5wm.gz",

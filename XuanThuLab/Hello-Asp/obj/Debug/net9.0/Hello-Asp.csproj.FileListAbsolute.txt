@@ -97,3 +97,4 @@ D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\obj\Debug\net9.0\refint\H
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\obj\Debug\net9.0\Hello-Asp.pdb
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\obj\Debug\net9.0\Hello-Asp.genruntimeconfig.cache
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\obj\Debug\net9.0\ref\Hello-Asp.dll
+D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\obj\Debug\net9.0\compressed\qp8v5f2mh0-85lo2ho9hi.gz

@@ -39,6 +39,7 @@ D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\bootstrap\dis
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\1.txt
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\jquery\dist\jquery.slim.js
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
@@ -60,6 +61,7 @@ D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\bootstrap\dis
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 D:\Linh\Learning\Learning_C_Sharp\XuanThuLab\Hello-Asp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\1.txt
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

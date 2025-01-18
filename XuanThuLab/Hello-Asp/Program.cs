@@ -11,6 +11,7 @@
             //cấu hình mặc định cho host tạo ra
             builder.ConfigureWebHostDefaults((IWebHostBuilder webBuilder) =>
             {
+                webBuilder.UseWebRoot("public");
                 //Tùy biến thêm về host vào trong đây
                 webBuilder.UseStartup<MyStartUp>();
             });

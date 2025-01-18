@@ -7,4 +7,8 @@
     <RootNamespace>Hello_Asp</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="buildBundlerMinifier" Version="3.2.449" />
+  </ItemGroup>
+
 </Project>

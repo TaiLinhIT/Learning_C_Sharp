@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QuB3tusoZtE=",
+  "dgSpecHash": "L+/dCeehOeY=",
   "success": true,
   "projectFilePath": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\Hello-Asp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
   "logs": []
 }

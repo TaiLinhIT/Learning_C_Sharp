@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS29Asynchronous", "CS29Asy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello-Asp", "Hello-Asp\Hello-Asp.csproj", "{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP02", "ASP02\ASP02.csproj", "{910040DA-9F1C-4820-897B-3ACDE3225AB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910040DA-9F1C-4820-897B-3ACDE3225AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910040DA-9F1C-4820-897B-3ACDE3225AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910040DA-9F1C-4820-897B-3ACDE3225AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910040DA-9F1C-4820-897B-3ACDE3225AB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
