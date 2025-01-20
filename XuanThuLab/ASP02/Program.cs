@@ -1,4 +1,4 @@
-namespace ASP02
+﻿namespace ASP02
 {
     public class Program
     {
@@ -8,6 +8,15 @@ namespace ASP02
 
             // Add services to the container.
             builder.Services.AddRazorPages();
+            //Thêm Authentication & Authorization
+            builder.Services.AddAuthentication("CookieAuth")
+                .AddCookie("CookieAuth", config =>
+                {
+                    config.Cookie.Name = "UserLoginCookie";
+                    config.LoginPath = "/Login";//Đường dẫn tới trang đăng nhập
+                    config.AccessDeniedPath = "/AccessDenied"; // Trang khi truy cập bị từ chối
+                });
+            builder.Services.AddAuthentication();
 
             var app = builder.Build();
 
@@ -23,6 +32,8 @@ namespace ASP02
 
             app.UseRouting();
 
+            // Thêm Authentication và Authorization Middleware
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapStaticAssets();

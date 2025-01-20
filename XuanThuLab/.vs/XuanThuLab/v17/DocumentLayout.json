@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\asp02\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|solutionrelative:asp02\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\asp02\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|solutionrelative:asp02\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\asp02\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|solutionrelative:asp02\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\asp02\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|solutionrelative:asp02\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\asp02\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|solutionrelative:asp02\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\asp02\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|solutionrelative:asp02\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\asp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{910040DA-9F1C-4820-897B-3ACDE3225AB6}|ASP02\\ASP02.csproj|solutionrelative:asp02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\hello-asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|solutionrelative:hello-asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|d:\\linh\\learning\\learning_c_sharp\\xuanthulab\\hello-asp\\mystartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D76F4D0F-270F-438C-BBFF-85ECAA9DF3CB}|Hello-Asp\\Hello-Asp.csproj|solutionrelative:hello-asp\\mystartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Program.cs",
-              "RelativeDocumentMoniker": "ASP02\\Program.cs",
-              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Program.cs",
-              "RelativeToolTip": "ASP02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP02\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "ASP02\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T03:16:19.86Z",
+              "WhenOpened": "2025-01-20T07:36:23.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASP02\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Login.cshtml*",
+              "RelativeToolTip": "ASP02\\Pages\\Login.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T07:32:10.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MyStartUp.cs",
-              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\MyStartUp.cs",
-              "RelativeDocumentMoniker": "Hello-Asp\\MyStartUp.cs",
-              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\MyStartUp.cs",
-              "RelativeToolTip": "Hello-Asp\\MyStartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP02\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "ASP02\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T10:09:56.597Z",
+              "WhenOpened": "2025-01-20T07:19:16.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\Program.cs",
-              "RelativeDocumentMoniker": "Hello-Asp\\Program.cs",
-              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\Hello-Asp\\Program.cs",
-              "RelativeToolTip": "Hello-Asp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ASP02\\Pages\\Logout.cshtml",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "ASP02\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T07:19:03.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP02\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ASP02\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T01:50:39.561Z",
+              "WhenOpened": "2025-01-20T07:16:28.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASP02\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ASP02\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T07:16:25.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Program.cs",
+              "RelativeDocumentMoniker": "ASP02\\Program.cs",
+              "ToolTip": "D:\\Linh\\Learning\\Learning_C_Sharp\\XuanThuLab\\ASP02\\Program.cs",
+              "RelativeToolTip": "ASP02\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:16:19.86Z",
               "EditorCaption": ""
             }
           ]

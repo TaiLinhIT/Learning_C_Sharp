@@ -1,20 +1,13 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace ASP02.Pages
 {
+    [Authorize(Roles = "Admin")]// để đảm bảo đăng nhập đã trải qua xác thực
     public class IndexModel : PageModel
     {
-        private readonly ILogger<IndexModel> _logger;
-
-        public IndexModel(ILogger<IndexModel> logger)
-        {
-            _logger = logger;
-        }
-
         public void OnGet()
         {
-
         }
     }
 }
